@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fc7b8636-70dd-4949-b8ca-7decc2df9614": {
+      "ProjectGuid": "fc7b8636-70dd-4949-b8ca-7decc2df9614",
+      "DisplayName": "LearnOpenGL",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
